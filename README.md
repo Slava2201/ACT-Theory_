@@ -77,3 +77,7 @@ alpha = calculate_alpha(N=1000)
 print(f"α = {alpha:.12f}")  # α = 0.007297352569
 
 Run quantum gravity simulation:
+
+from code.quantum_gravity import QuantumGravitySimulator
+sim = QuantumGravitySimulator(N=1500)
+results = sim.run(temperature=0.7)
