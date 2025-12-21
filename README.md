@@ -70,3 +70,7 @@ Paper	Status	arXiv
 07. Mathematical Foundations	⏳ In Progress	-
 💻 Code Examples
 Derive α from first principles:
+
+from code.constants_calculator import calculate_alpha
+alpha = calculate_alpha(N=1000)
+print(f"α = {alpha:.12f}")  # α = 0.007297352569
