@@ -53,6 +53,3 @@ python code/act_core.py --test
 
 
 
-from code.standard_model import validate_predictions
-predictions = validate_predictions()
-print(f"Matching experimental data: {predictions['accuracy']:.2%}")
