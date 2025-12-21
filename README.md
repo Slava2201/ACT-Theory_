@@ -39,7 +39,7 @@ ACT-Theory/
 
 ## 🚀 Quick Start
 
-```bash
+
 
 # Clone repository
 git clone https://github.com/username/ACT-Theory.git
