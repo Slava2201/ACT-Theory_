@@ -21,8 +21,3 @@ ACT Theory is a comprehensive framework that unifies:
 ✅ **Quantum Gravity effects** testable at LHC/LIGO  
 ✅ **Cosmological predictions** matching Planck data  
 ✅ **Scalable simulations** up to N=2000+ vertices  
-
-## 🏗️ Project Structure
-
-
-
