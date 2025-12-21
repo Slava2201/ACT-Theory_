@@ -49,3 +49,24 @@ pip install -r requirements.txt
 
 # Run quick test
 python code/act_core.py --test
+
+📚 Documentation
+Theory Overview
+
+Mathematical Apparatus
+
+API Documentation
+
+Installation Guide
+
+🔬 Research Papers
+Paper	Status	arXiv
+01. Derivation of α	✅ Complete	2401.XXXXX
+02. Fundamental Constants	✅ Complete	2401.XXXXX
+03. Emergent Standard Model	⏳ In Progress	-
+04. Quantum Gravity	✅ Complete	2401.XXXXX
+05. Cosmology	✅ Complete	2401.XXXXX
+06. Experimental Predictions	✅ Complete	2401.XXXXX
+07. Mathematical Foundations	⏳ In Progress	-
+💻 Code Examples
+Derive α from first principles:
