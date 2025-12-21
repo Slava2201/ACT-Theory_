@@ -40,6 +40,7 @@ ACT-Theory/
 ## 🚀 Quick Start
 
 ```bash
+
 # Clone repository
 git clone https://github.com/username/ACT-Theory.git
 cd ACT-Theory
@@ -74,3 +75,5 @@ Derive α from first principles:
 from code.constants_calculator import calculate_alpha
 alpha = calculate_alpha(N=1000)
 print(f"α = {alpha:.12f}")  # α = 0.007297352569
+
+Run quantum gravity simulation:
