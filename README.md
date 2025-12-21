@@ -24,31 +24,5 @@ ACT Theory is a comprehensive framework that unifies:
 
 ## 🏗️ Project Structure
 
-ACT-Theory/
-
-├── papers/ # Research papers and derivations
-
-├── code/ # Core implementation
-
-├── data/ # Simulation results
-
-├── docs/ # Documentation
-
-└── tests/ # Test suite
-
-
-## 🚀 Quick Start
-
-```bash
-
-# Clone repository
-git clone https://github.com/username/ACT-Theory.git
-cd ACT-Theory
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run quick test
-python code/act_core.py --test
 
 
