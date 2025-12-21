@@ -81,3 +81,10 @@ Run quantum gravity simulation:
 from code.quantum_gravity import QuantumGravitySimulator
 sim = QuantumGravitySimulator(N=1500)
 results = sim.run(temperature=0.7)
+
+
+Test Standard Model predictions:
+
+from code.standard_model import validate_predictions
+predictions = validate_predictions()
+print(f"Matching experimental data: {predictions['accuracy']:.2%}")
