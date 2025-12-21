@@ -25,11 +25,17 @@ ACT Theory is a comprehensive framework that unifies:
 ## 🏗️ Project Structure
 
 ACT-Theory/
+
 ├── papers/ # Research papers and derivations
+
 ├── code/ # Core implementation
+
 ├── data/ # Simulation results
+
 ├── docs/ # Documentation
+
 └── tests/ # Test suite
+
 
 ## 🚀 Quick Start
 
